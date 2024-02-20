@@ -18,7 +18,7 @@ Replace the contents of this file with a report, as described in the [instructio
 
 ### Simplified Table
 
-Since there are 20 columns,
+Since there are 20 columns, I will only show the first four columns, since the raw data is extremely lengthy, and it was fairly difficult for me to import all 20 columns.
 
 | dbn    | School Name                                       | Boro | Overview Paragraph                                         |
 | ------ | ------------------------------------------------- | ---- | ---------------------------------------------------------- |
@@ -49,21 +49,23 @@ A major problem presented was the presence of empty columns as well as categoric
 
 ### Links:
 
-data/2019_DOE_High_School_Directory_20240219.csv
-data/cleaned_data.csv
-data/cleaned_data.xlsx
+[Original Raw Data](data/2019_DOE_High_School_Directory_20240219.csv)
+
+[Munged Data](data/cleaned_data.csv)
+
+[Spreadsheet Data](data/cleaned_data.xlsx)
 
 ## Analysis
 
 ### Agregated Statistics:
 
-Average of Graduation Rate
+Average of Graduation Rate: 0.79
 
-Maximum of Attendance Rate
+Maximum of Attendance Rate: 0.98
 
-Minimum of College Career Rate
+Minimum of College Career Rate: 0.15
 
-Count of schools with Student Safety Rate < 0.8
+Count of schools with Student Safety Rate < 0.8: 293
 
 ## Markdown Table for Pivot Table
 
