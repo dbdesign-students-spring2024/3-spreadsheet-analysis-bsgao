@@ -1,0 +1,428 @@
+school_name,graduation_rate,attendance_rate,pct_stu_enough_variety,college_career_rate,pct_stu_safe
+Brooklyn High School for Law and Technology,0.74,0.85,0.58,0.49,0.74
+International High School at Prospect Heights,0.63,0.88,0.92,0.53,0.86
+Repertory Company High School for Theatre Arts,0.96,0.91,0.68,0.87,0.85
+Thurgood Marshall Academy for Learning and Social Change,0.81,0.91,0.59,0.6,0.83
+Brooklyn Frontiers High School,0.79,0.76,0.68,0.59,0.79
+West End Secondary School,0.79,0.87,0.91,0.59,0.94
+Bard High School Early College Queens,0.99,0.97,0.94,0.94,0.98
+Academy of Hospitality and Tourism,0.53,0.82,0.83,0.3,0.79
+School for Classics High School,0.73,0.84,0.62,0.28,0.77
+Institute for Collaborative Education (ICE),0.87,0.92,0.9,0.75,0.91
+"Queens High School for Information, Research, and Technology",0.81,0.84,0.89,0.31,0.9
+Explorations Academy,0.66,0.81,0.51,0.37,0.86
+Fiorello H. LaGuardia High School of Music & Art and Performing Arts,0.98,0.95,0.91,0.82,0.94
+Digital Arts and Cinema Technology High School,0.69,0.89,0.66,0.71,0.78
+Professional Pathways High School,0.79,0.56,0.93,0.59,0.98
+Life Academy High School for Film and Music,0.89,0.88,0.64,0.6,0.82
+"Robert F. Wagner, Jr. Secondary School for Arts and Technology",0.93,0.92,0.86,0.82,0.93
+Bronx Academy of Health Careers,0.81,0.88,0.57,0.59,0.64
+Eximius College Preparatory Academy: A College Board School,0.89,0.85,0.73,0.57,0.83
+Frank McCourt High School,0.97,0.93,0.68,0.78,0.85
+Brooklyn Academy of Science and the Environment (BASE),0.74,0.9,0.77,0.57,0.84
+Hudson High School of Learning Technologies,0.64,0.79,0.76,0.54,0.83
+Scholars' Academy,1.0,0.95,0.88,0.98,0.95
+Bronx Aerospace High School,0.68,0.82,0.55,0.46,0.67
+Queens High School for the Sciences at York College,1.0,0.97,0.57,0.91,0.93
+The High School for Global Citizenship,0.61,0.9,0.72,0.33,0.75
+Academy for Health Careers,0.83,0.83,0.44,0.56,0.87
+Victory Collegiate High School,0.76,0.88,0.49,0.53,0.72
+Academy for Young Writers,0.89,0.88,0.71,0.73,0.87
+Millennium Brooklyn High School,0.99,0.94,0.92,0.88,0.96
+Port Richmond High School,0.67,0.86,0.86,0.36,0.81
+Frederick Douglass Academy VII High School,0.66,0.82,0.87,0.37,0.85
+The Boerum Hill School for International Studies,0.78,0.8,0.79,0.56,0.85
+High School for Excellence and Innovation,0.79,0.68,0.89,0.59,0.97
+Essex Street Academy,0.83,0.87,0.87,0.74,0.96
+Mott Hall High School,0.66,0.8,0.61,0.36,0.74
+School of the Future High School,0.99,0.94,0.76,0.79,0.9
+Esperanza Preparatory Academy,0.73,0.86,0.75,0.41,0.84
+International Community High School,0.62,0.89,0.92,0.42,0.93
+Life Sciences Secondary School,0.6,0.8,0.61,0.47,0.66
+Curtis High School,0.73,0.85,0.9,0.48,0.75
+Academy for Conservation and the Environment,0.81,0.82,0.66,0.48,0.77
+Abraham Lincoln High School,0.71,0.86,0.85,0.45,0.84
+High School for Violin and Dance,0.67,0.71,0.56,0.43,0.75
+The Facing History School,0.76,0.82,0.82,0.55,0.92
+Westchester Square Academy,0.74,0.87,0.65,0.6,0.68
+N.Y.C. Lab School for Collaborative Studies,0.97,0.94,0.83,0.87,0.94
+Park East High School,0.96,0.94,0.92,0.69,0.95
+47 The American Sign Language and English Secondary School,0.91,0.86,0.55,0.62,0.92
+Alfred E. Smith Career and Technical Education High School,0.8,0.84,0.8,0.37,0.73
+"Brooklyn Latin School, The",0.99,0.93,0.78,0.85,0.89
+School for Excellence,0.58,0.66,0.59,0.35,0.79
+A. Philip Randolph Campus High School,0.73,0.84,0.96,0.53,0.87
+Bayside High School,0.97,0.93,0.88,0.84,0.79
+Leadership and Public Service High School,0.7,0.83,0.57,0.44,0.86
+High School for Energy and Technology,0.63,0.83,0.51,0.48,0.64
+Bronx Health Sciences High School,0.93,0.93,0.26,0.87,0.88
+Kingsborough Early College School,0.98,0.91,0.72,0.89,0.79
+The Urban Assembly School for Emergency Management,0.74,0.83,0.67,0.59,0.86
+Academy for Environmental Leadership,0.7,0.8,0.57,0.44,0.8
+High School for Health Professions and Human Services,0.94,0.92,0.88,0.72,0.93
+Nelson Mandela High School,0.79,0.78,0.6,0.59,0.81
+Robert F. Kennedy Community High School,0.81,0.9,0.74,0.67,0.82
+Performing Arts and Technology High School,0.54,0.86,0.89,0.41,0.76
+"Bronx School for Law, Government and Justice",0.85,0.91,0.81,0.71,0.81
+Ralph R. McKee Career and Technical Education High School,0.77,0.87,0.77,0.3,0.77
+Academy for Language and Technology,0.96,0.89,0.83,0.74,0.91
+Dr. Susan S. McKinney Secondary School of the Arts,0.69,0.76,0.79,0.45,0.85
+University Neighborhood High School,0.9,0.93,0.73,0.7,0.92
+High School for Medical Professions,0.93,0.91,0.58,0.69,0.87
+Transit Tech Career and Technical Education High School,0.73,0.84,0.78,0.45,0.77
+New Utrecht High School,0.8,0.87,0.69,0.59,0.71
+Community School for Social Justice,0.55,0.79,0.92,0.53,0.95
+International High School for Health Sciences,0.61,0.88,0.93,0.59,0.85
+Frederick Douglass Academy VI High School,0.47,0.83,0.52,0.34,0.69
+The Bronxwood Preparatory Academy,0.64,0.91,0.5,0.39,0.76
+Bronx Collegiate Academy,0.67,0.85,0.82,0.33,0.8
+Urban Assembly Maker Academy,0.79,0.89,0.8,0.59,0.86
+Wadleigh Secondary School for the Performing & Visual Arts,0.75,0.81,0.74,0.4,0.91
+Marble Hill High School for International Studies,0.9,0.93,0.91,0.82,0.89
+Institute for Health Professions at Cambria Heights,0.89,0.89,0.78,0.59,0.86
+East-West School of International Studies,0.93,0.91,0.78,0.87,0.9
+High School for Law and Public Service,0.73,0.88,0.83,0.42,0.79
+John Dewey High School,0.8,0.88,0.86,0.57,0.8
+Khalil Gibran International Academy,0.67,0.85,0.61,0.57,0.76
+August Martin High School,0.63,0.82,0.6,0.24,0.83
+Liberation Diploma Plus High School,0.79,0.53,1.0,0.59,1.0
+"Mathematics, Science Research and Technology Magnet High School",0.71,0.8,0.57,0.41,0.76
+High School of Applied Communication,0.82,0.89,0.53,0.65,0.81
+Manhattan Village Academy,0.99,0.98,0.53,0.91,0.93
+In-Tech Academy (M.S. / High School 368),0.86,0.91,0.76,0.78,0.85
+Urban Assembly High School of Music and Art,0.78,0.81,0.26,0.6,0.82
+Robert H. Goddard High School of Communication Arts and Technology,0.93,0.92,0.89,0.65,0.94
+International High School at Lafayette,0.67,0.89,0.89,0.51,0.83
+Jamaica Gateway to the Sciences,0.83,0.88,0.8,0.73,0.85
+The Brooklyn Academy of Global Finance,0.66,0.78,0.76,0.26,0.85
+Thomas A. Edison Career and Technical Education High School,0.89,0.93,0.88,0.73,0.87
+High School for Media and Communications,0.46,0.9,0.73,0.35,0.72
+High School for Health Careers and Sciences,0.62,0.87,0.81,0.39,0.8
+"The Marie Curie School for Medicine, Nursing, and Health Professions",0.57,0.82,0.58,0.68,0.71
+Marta Valle High School,0.74,0.79,0.64,0.49,0.89
+Metropolitan Expeditionary Learning School,0.97,0.93,0.83,0.9,0.9
+"Archimedes Academy for Math, Science and Technology Applications",0.63,0.78,0.59,0.43,0.7
+High School for Service & Learning at Erasmus,0.82,0.84,0.72,0.49,0.72
+Newtown High School,0.71,0.9,0.9,0.49,0.85
+Richmond Hill High School,0.69,0.87,0.86,0.42,0.8
+Careers In Sports High School,0.72,0.77,0.81,0.57,0.88
+Brooklyn Collegiate: A College Board School,0.63,0.85,0.82,0.5,0.78
+High School for Dual Language and Asian Studies,1.0,0.98,0.67,0.86,0.92
+Sunset Park High School,0.77,0.87,0.87,0.51,0.9
+Manhattan Early College School for Advertising,0.79,0.92,0.85,0.59,0.86
+Washington Heights Expeditionary Learning School (WHEELS),0.77,0.84,0.73,0.56,0.87
+Brooklyn International High School,0.8,0.92,0.92,0.63,0.89
+Hostos-Lincoln Academy of Science,0.84,0.91,0.63,0.77,0.87
+Young Women's Leadership School of Brooklyn (TYWLS),1.0,0.88,0.58,0.97,0.86
+Bronx Design and Construction Academy,0.54,0.76,0.67,0.38,0.51
+Mott Haven Village Preparatory High School,0.53,0.78,0.65,0.48,0.83
+High School for Innovation in Advertising and Media,0.7,0.86,0.66,0.53,0.7
+Bronx Collaborative High School,0.51,0.8,0.83,0.59,0.86
+Flushing High School,0.6,0.85,0.75,0.42,0.76
+Information Technology High School,0.84,0.9,0.79,0.59,0.83
+William Cullen Bryant High School,0.72,0.89,0.87,0.52,0.78
+Kingsbridge International High School,0.57,0.87,0.78,0.32,0.84
+Gregorio Luperon High School for Science and Mathematics,0.69,0.92,0.9,0.49,0.95
+Pelham Preparatory Academy,0.9,0.9,0.71,0.68,0.82
+Manhattan / Hunter Science High School,0.99,0.97,0.77,0.88,0.95
+Frederick Douglass Academy,0.82,0.89,0.8,0.59,0.77
+East Williamsburg Scholars Academy,0.64,0.77,0.75,0.3,0.82
+James Madison High School,0.83,0.94,0.87,0.64,0.75
+Gaynor McCown Expeditionary Learning School,0.91,0.91,0.61,0.79,0.92
+EBC High School for Public Service-Bushwick,0.71,0.87,0.78,0.4,0.87
+The High School For Language and Diplomacy,0.81,0.82,0.49,0.72,0.76
+Collegiate Institute for Math and Science (CIMS),0.9,0.9,0.8,0.81,0.76
+Bronx Envision Academy,0.64,0.81,0.69,0.5,0.82
+Bard High School Early College,0.99,0.95,0.9,0.98,0.96
+William E. Grady Career and Technical Education High School,0.71,0.82,0.83,0.22,0.78
+Harvest Collegiate High School,0.87,0.85,0.85,0.79,0.83
+The School for Human Rights,0.74,0.92,0.77,0.49,0.85
+Humanities Preparatory Academy,0.79,0.85,0.82,0.59,0.86
+Origins High School,0.76,0.83,0.81,0.59,0.87
+Manhattan Business Academy,0.86,0.87,0.83,0.77,0.88
+Bronx Theatre High School,0.66,0.78,0.84,0.46,0.85
+Special Music School,0.98,0.95,0.87,0.59,0.95
+Brooklyn Theatre Arts High School,0.83,0.82,0.73,0.46,0.72
+The Cinema School,0.96,0.89,0.67,0.6,0.91
+Bedford Academy High School,0.98,0.93,0.49,0.88,0.91
+Millennium High School,0.99,0.96,0.71,0.91,0.95
+West Bronx Academy for the Future,0.87,0.84,0.76,0.54,0.75
+Renaissance High School for Musical Theater and the Arts,0.7,0.82,0.84,0.43,0.8
+Bronx Latin,0.96,0.9,0.83,0.82,0.94
+Frederick Douglass Academy II Secondary School,0.71,0.82,0.6,0.39,0.74
+Manhattan Center for Science and Mathematics,0.96,0.93,0.87,0.8,0.91
+Clara Barton High School,0.75,0.89,0.68,0.52,0.64
+Academy for Scholarship and Entrepreneurship: A College Board School,0.65,0.81,0.4,0.4,0.67
+It Takes a Village Academy,0.89,0.91,0.8,0.76,0.67
+Urban Assembly School for the Performing Arts,0.73,0.81,0.8,0.68,0.84
+Beacon High School,1.0,0.96,0.96,0.87,0.96
+The Urban Assembly School for Media Studies,0.77,0.84,0.83,0.54,0.92
+York Early College Academy,0.99,0.95,0.76,0.94,0.93
+Bronx Academy for Software Engineering (BASE),0.78,0.88,0.73,0.59,0.82
+"Queens School of Inquiry, The",0.95,0.93,0.69,0.97,0.82
+Queens High School for Language Studies,0.95,0.95,0.84,0.59,0.94
+Professional Performing Arts High School (PPAS),0.93,0.93,0.73,0.74,0.96
+High School for Community Leadership,0.91,0.87,0.93,0.56,0.92
+George Westinghouse Career and Technical Education High School,0.74,0.88,0.76,0.39,0.79
+High School of Computers and Technology,0.61,0.87,0.77,0.62,0.83
+Long Island City High School,0.66,0.86,0.88,0.45,0.78
+Pace High School,0.86,0.87,0.83,0.77,0.91
+The Urban Assembly School for Collaborative Healthcare,0.79,0.87,0.76,0.59,0.78
+Richard R. Green High School of Teaching,0.68,0.87,0.75,0.53,0.85
+Pan American International High School at Monroe,0.79,0.88,0.96,0.59,0.94
+Gotham Collaborative High School,0.67,0.8,0.6,0.36,0.82
+"New Explorations into Science, Technology and Math High School (NEST+m)",0.97,0.95,0.77,0.85,0.89
+Manhattan Academy for Arts & Language,0.52,0.86,0.78,0.43,0.82
+High School for Law Enforcement and Public Safety,0.8,0.89,0.57,0.63,0.64
+Metropolitan Diploma Plus High School,0.79,0.66,0.84,0.59,0.91
+NYC iSchool,0.98,0.93,0.91,0.91,0.95
+Young Women's Leadership School of the Bronx (TYWLS),0.79,0.92,0.83,0.59,0.85
+Pathways in Technology Early College High School (P-TECH),0.81,0.93,0.77,0.68,0.83
+Midwood High School,0.9,0.92,0.91,0.81,0.8
+Crotona International High School,0.63,0.83,0.72,0.15,0.69
+Pelham Lab High School,0.71,0.83,0.61,0.59,0.67
+The Laboratory School of Finance and Technology,0.92,0.9,0.79,0.59,0.91
+N.Y.C. Museum School,1.0,0.94,0.42,0.9,0.94
+Eagle Academy for Young Men III,0.93,0.91,0.49,0.59,0.63
+Aviation Career & Technical Education High School,0.97,0.97,0.86,0.68,0.91
+Unity Center for Urban Technologies,0.77,0.84,0.64,0.64,0.89
+Academy of Innovative Technology,0.74,0.88,0.89,0.48,0.89
+Landmark High School,0.65,0.81,0.66,0.36,0.85
+Urban Assembly School for Criminal Justice,0.93,0.9,0.72,0.81,0.86
+Benjamin Banneker Academy,0.92,0.88,0.7,0.8,0.83
+Eagle Academy for Young Men,0.74,0.87,0.72,0.64,0.71
+Hillside Arts & Letters Academy,0.84,0.85,0.92,0.53,0.92
+Fordham Leadership Academy,0.72,0.9,0.61,0.32,0.7
+Bronx Lab School,0.6,0.81,0.51,0.41,0.71
+Cypress Hills Collegiate Preparatory School,0.69,0.89,0.78,0.51,0.9
+Park Slope Collegiate,0.64,0.87,0.67,0.66,0.76
+"Young Women's Leadership School, Queens (TYWLS)",0.96,0.94,0.74,0.84,0.87
+Brooklyn Preparatory High School,0.92,0.86,0.81,0.69,0.8
+Williamsburg High School for Architecture and Design,0.95,0.91,0.97,0.56,0.96
+School for Tourism and Hospitality,0.55,0.77,0.56,0.42,0.81
+High School for Youth and Community Development at Erasmus,0.79,0.88,0.86,0.39,0.8
+Benjamin N. Cardozo High School,0.91,0.92,0.9,0.77,0.81
+East New York Family Academy,0.95,0.88,0.69,0.68,0.85
+Young Women's Leadership School (TYWLS),1.0,0.94,0.75,0.97,0.94
+Theater Arts Production Company School (TAPCo),0.73,0.85,0.62,0.65,0.83
+Fannie Lou Hamer Freedom High School,0.68,0.8,0.84,0.37,0.88
+Academy of Finance and Enterprise,0.94,0.93,0.7,0.77,0.9
+The Urban Assembly School for Law and Justice,0.91,0.91,0.91,0.76,0.84
+Humanities & Arts Magnet High School,0.68,0.86,0.62,0.45,0.67
+Bronx High School for Medical Science,0.91,0.93,0.54,0.83,0.75
+The Urban Assembly School for Green Careers,0.83,0.84,0.69,0.43,0.92
+John Adams High School,0.71,0.86,0.83,0.45,0.75
+High School of Economics and Finance,0.9,0.88,0.71,0.82,0.83
+The Urban Assembly School of Design and Construction,0.59,0.83,0.68,0.47,0.82
+Energy Tech High School,0.93,0.94,0.63,0.59,0.85
+High School of Language and Innovation,0.73,0.87,0.84,0.51,0.82
+South Bronx Preparatory: A College Board School,0.96,0.92,0.86,0.58,0.95
+Brooklyn College Academy,0.98,0.95,0.58,0.95,0.96
+Rachel Carson High School for Coastal Studies,0.67,0.86,0.74,0.54,0.82
+"Heritage School, The",0.73,0.88,0.8,0.41,0.8
+The High School of Fashion Industries,0.93,0.91,0.91,0.79,0.86
+International High School at LaGuardia Community College,0.83,0.92,0.98,0.8,0.98
+Talent Unlimited High School,0.97,0.93,0.69,0.75,0.91
+Urban Assembly Gateway School for Technology,0.87,0.89,0.86,0.72,0.91
+Riverdale / Kingsbridge Academy (Middle School / High School 141) (RKA),0.92,0.92,0.82,0.71,0.81
+High School for Environmental Studies,0.8,0.85,0.84,0.67,0.84
+Schuylerville Preparatory High School,0.67,0.87,0.56,0.59,0.67
+CSI High School for International Studies,0.99,0.95,0.68,0.92,0.95
+Lyons Community School,0.65,0.81,0.77,0.4,0.81
+Brooklyn Technical High School,0.98,0.96,0.94,0.95,0.95
+Morris Academy for Collaborative Studies,0.73,0.84,0.86,0.46,0.89
+Brooklyn Institute for Liberal Arts (BILA),0.97,0.93,0.82,0.64,0.86
+Grover Cleveland High School,0.63,0.83,0.78,0.43,0.79
+Franklin Delano Roosevelt High School,0.68,0.89,0.86,0.51,0.82
+Queens Preparatory Academy,0.7,0.83,0.5,0.52,0.71
+The Urban Assembly Bronx Academy of Letters,0.85,0.8,0.77,0.43,0.8
+Automotive High School,0.72,0.81,0.81,0.18,0.79
+Herbert H. Lehman High School,0.59,0.83,0.79,0.35,0.67
+Spring Creek Community School,0.79,0.92,0.74,0.59,0.88
+Academy of American Studies,0.93,0.94,0.72,0.72,0.89
+Academy of Medical Technology: A College Board School,0.73,0.86,0.8,0.32,0.81
+DeWitt Clinton High School,0.5,0.84,0.75,0.34,0.68
+Epic High School - North,0.79,0.89,0.83,0.59,0.93
+East Side Community School,0.92,0.94,0.95,0.77,0.94
+Urban Assembly Institute of Math and Science for Young Women,0.78,0.87,0.53,0.62,0.77
+The Urban Assembly School of Business for Young Women,0.75,0.83,0.24,0.49,0.81
+"Celia Cruz Bronx High School of Music, The",0.95,0.91,0.83,0.7,0.87
+Pan American International High School,0.9,0.92,0.95,0.35,0.94
+High School of Hospitality Management,0.7,0.82,0.46,0.54,0.88
+Frederick Douglass Academy III Secondary School,0.73,0.76,0.65,0.34,0.83
+High School of Arts and Technology,0.74,0.82,0.5,0.34,0.7
+Newcomers High School,0.77,0.89,0.89,0.55,0.88
+Bronx High School for the Visual Arts,0.66,0.84,0.4,0.38,0.81
+Preparatory Academy for Writers: A College Board School,0.9,0.85,0.73,0.59,0.83
+Brooklyn Community Arts & Media High School (BCAM),0.77,0.82,0.76,0.53,0.87
+All City Leadership Secondary School,0.97,0.93,0.85,0.73,0.98
+Health Opportunities High School,0.49,0.77,0.86,0.53,0.88
+Gramercy Arts High School,0.81,0.84,0.45,0.57,0.73
+Brooklyn High School of the Arts,0.85,0.92,0.75,0.64,0.87
+High School for Arts and Business,0.9,0.92,0.79,0.68,0.95
+Teachers Preparatory High School,0.69,0.8,0.53,0.49,0.71
+"City Polytechnic High School of Engineering, Architecture, and Technology",0.87,0.89,0.75,0.77,0.84
+Murray Hill Academy,0.79,0.79,0.76,0.59,0.9
+Manhattan Bridges High School,0.85,0.92,0.86,0.78,0.9
+Food and Finance High School,0.91,0.9,0.51,0.67,0.77
+Urban Action Academy,0.58,0.81,0.68,0.33,0.81
+"High School for Law, Advocacy and Community Justice",0.73,0.84,0.73,0.63,0.79
+Antonia Pantoja Preparatory Academy: A College Board School,0.6,0.8,0.67,0.39,0.77
+Stephen T. Mather Building Arts & Craftsmanship High School,0.83,0.87,0.84,0.59,0.86
+DreamYard Preparatory School,0.68,0.84,0.84,0.33,0.85
+Queens Technical High School,0.84,0.9,0.89,0.62,0.82
+New Design High School,0.92,0.86,0.69,0.58,0.92
+Kurt Hahn Expeditionary Learning School,0.86,0.89,0.84,0.43,0.79
+Stuyvesant High School,0.98,0.97,0.95,0.98,0.97
+Tottenville High School,0.89,0.91,0.91,0.62,0.81
+Longwood Preparatory Academy,0.5,0.8,0.72,0.29,0.88
+High School for Contemporary Arts,0.75,0.86,0.55,0.33,0.7
+Bronx School of Law and Finance,0.77,0.8,0.6,0.4,0.65
+Lower Manhattan Arts Academy,0.81,0.88,0.86,0.58,0.86
+ACORN Community High School,0.74,0.8,0.38,0.54,0.83
+Astor Collegiate Academy,0.8,0.86,0.53,0.6,0.67
+Epic High School - South,0.79,0.84,0.44,0.59,0.88
+Bronx Career and College Preparatory High School,0.43,0.76,0.76,0.29,0.82
+Martin Van Buren High School,0.67,0.87,0.76,0.43,0.69
+The Clinton School,0.79,0.97,0.84,0.59,0.96
+Vanguard High School,0.74,0.87,0.85,0.51,0.93
+East Bronx Academy for the Future,0.78,0.79,0.67,0.57,0.82
+Excelsior Preparatory High School,0.79,0.87,0.72,0.52,0.8
+Bronx Leadership Academy High School,0.54,0.82,0.56,0.44,0.66
+Belmont Preparatory High School,0.92,0.89,0.82,0.63,0.91
+Mott Hall V,0.89,0.88,0.8,0.69,0.92
+"The High School for Enterprise, Business and Technology",0.78,0.85,0.74,0.61,0.72
+Queens Metropolitan High School,0.86,0.92,0.84,0.71,0.92
+Community Health Academy of the Heights,0.79,0.79,0.84,0.54,0.9
+Channel View School for Research,0.93,0.89,0.8,0.73,0.87
+High School for Teaching and the Professions,0.81,0.82,0.79,0.41,0.84
+Cultural Academy for the Arts and Sciences,0.68,0.87,0.69,0.38,0.8
+Inwood Early College for Health and Information Technologies,0.79,0.91,0.68,0.59,0.88
+Medgar Evers College Preparatory School,0.98,0.89,0.67,0.8,0.71
+El Puente Academy for Peace and Justice,0.56,0.82,0.82,0.47,0.96
+"Bronx High School of Science, The",1.0,0.97,0.94,0.98,0.92
+Mott Hall Bronx High School,0.8,0.85,0.77,0.54,0.86
+High School of Telecommunication Arts and Technology,0.88,0.93,0.85,0.71,0.92
+"Brooklyn School for Math and Research (B-SMARt), The",0.89,0.88,0.75,0.68,0.84
+Chelsea Career and Technical Education High School,0.75,0.86,0.66,0.57,0.91
+Bronx High School of Business,0.69,0.82,0.69,0.28,0.68
+The Urban Assembly Academy of Government and Law,0.84,0.84,0.55,0.61,0.84
+Brooklyn School for Music & Theatre,0.74,0.83,0.61,0.55,0.84
+W. H. Maxwell Career and Technical Education High School,0.68,0.76,0.72,0.33,0.81
+The Maxine Greene High School for Imaginative Inquiry,0.67,0.83,0.68,0.4,0.83
+The College Academy,0.54,0.85,0.7,0.38,0.67
+Middle College High School at LaGuardia Community College,0.73,0.92,0.78,0.77,0.93
+Bronx High School for Writing and Communication Arts,0.67,0.81,0.84,0.46,0.84
+Orchard Collegiate Academy,0.66,0.87,0.78,0.36,0.93
+International School for Liberal Arts,0.77,0.91,0.89,0.47,0.88
+Juan Morel Campos Secondary School,0.66,0.87,0.71,0.23,0.8
+Business Technology Early College High School (BTECH),0.79,0.9,0.64,0.59,0.75
+Bronx High School for Law and Community Service,0.85,0.82,0.82,0.55,0.83
+Eleanor Roosevelt High School,1.0,0.96,0.94,0.9,0.98
+Rockaway Park High School for Environmental Sustainability,0.72,0.81,0.59,0.3,0.75
+World Academy for Total Community Health High School (WATCH),0.67,0.81,0.75,0.52,0.81
+Gotham Professional Arts Academy,0.55,0.78,0.64,0.5,0.76
+"H.E.R.O. High (Health, Education, and Research Occupations High School)",0.72,0.83,0.76,0.59,0.81
+Cobble Hill School of American Studies,0.79,0.8,0.56,0.55,0.84
+Murry Bergtraum High School for Business Careers,0.54,0.83,0.73,0.39,0.8
+Validus Preparatory Academy,0.64,0.79,0.69,0.45,0.9
+"Science Skills Center High School for Science, Technology and the Creative Arts",0.84,0.93,0.65,0.68,0.76
+Edward R. Murrow High School,0.8,0.91,0.88,0.64,0.86
+"Young Women's Leadership School, Astoria (TYWLS)",0.96,0.94,0.82,0.92,0.95
+Bronx River High School,0.73,0.83,0.66,0.59,0.77
+Jacqueline Kennedy Onassis High School,0.64,0.79,0.41,0.46,0.8
+Eagle Academy for Young Men II,0.96,0.9,0.94,0.55,0.89
+Boys and Girls High School,0.63,0.85,0.82,0.25,0.81
+Queens Collegiate: A College Board School,0.88,0.89,0.65,0.63,0.79
+Academy for College Preparation and Career Exploration: A College Board School,0.64,0.84,0.67,0.49,0.77
+Baccalaureate School for Global Education,0.99,0.95,0.64,0.95,0.95
+Flushing International High School,0.65,0.91,0.86,0.65,0.87
+Bronx Compass High School,0.48,0.81,0.66,0.45,0.76
+Urban Assembly New York Harbor School,0.77,0.91,0.88,0.57,0.96
+Brooklyn Studio Secondary School,0.85,0.87,0.63,0.65,0.79
+Frank Sinatra School of the Arts High School,0.93,0.93,0.87,0.95,0.96
+New World High School,0.88,0.93,0.88,0.77,0.87
+International High School at Union Square,0.66,0.87,0.85,0.52,0.87
+Knowledge and Power Preparatory Academy International High School (KAPPA),0.91,0.88,0.93,0.64,0.94
+Civic Leadership Academy,0.96,0.9,0.57,0.76,0.94
+Susan E. Wagner High School,0.86,0.9,0.93,0.73,0.83
+New Directions Secondary School,0.79,0.65,0.84,0.59,0.86
+PROGRESS High School for Professional Careers,0.78,0.84,0.75,0.42,0.8
+John Jay School for Law,0.86,0.85,0.84,0.55,0.83
+High School of American Studies at Lehman College,0.99,0.97,0.83,1.0,0.99
+Academy for Careers in Television and Film (ACTV),0.98,0.93,0.8,0.81,0.9
+Quest to Learn,0.84,0.88,0.72,0.56,0.74
+World View High School,0.86,0.89,0.75,0.59,0.83
+"Science, Technology and Research Early College High School at Erasmus (STAR)",0.98,0.96,0.86,0.83,0.88
+Bronx Studio School for Writers and Artists,0.64,0.84,0.72,0.5,0.82
+Benjamin Franklin High School for Finance & Information Technology,0.79,0.87,0.82,0.59,0.83
+Wings Academy,0.53,0.81,0.58,0.35,0.74
+Multicultural High School,0.62,0.9,0.85,0.49,0.92
+Bronx Bridges High School,0.58,0.81,0.69,0.42,0.78
+Townsend Harris High School,0.99,0.97,0.93,1.0,0.96
+Independence High School,0.79,0.62,0.83,0.59,0.96
+Business of Sports School (BOSS),0.82,0.84,0.85,0.63,0.88
+The Global Learning Collaborative,0.76,0.86,0.71,0.6,0.88
+The Williamsburg High School of Arts and Technology,0.68,0.85,0.68,0.32,0.88
+Academy for Software Engineering (AFSE),0.85,0.9,0.78,0.82,0.87
+Pathways College Preparatory School: A College Board School,0.66,0.91,0.64,0.57,0.71
+FDNY-Captain Vernon A. Richard High School for Fire and Life Safety,0.71,0.8,0.73,0.32,0.77
+Brooklyn Generation School,0.75,0.91,0.78,0.51,0.77
+Comprehensive Model School Project M.S. 327,0.83,0.88,0.75,0.72,0.89
+Francis Lewis High School,0.89,0.92,0.94,0.75,0.89
+Williamsburg Preparatory School,0.95,0.9,0.82,0.74,0.85
+Expeditionary Learning School for Community Leaders,0.84,0.87,0.88,0.7,0.88
+Bronx Engineering and Technology Academy,0.77,0.82,0.66,0.53,0.79
+University Heights Secondary School,0.98,0.93,0.91,0.78,0.9
+Bushwick Leaders High School for Academic Excellence,0.73,0.81,0.67,0.42,0.87
+Manhattan International High School,0.74,0.89,0.86,0.56,0.93
+Forest Hills High School,0.88,0.9,0.91,0.73,0.84
+Bronx Center for Science and Mathematics,0.92,0.91,0.82,0.75,0.93
+Bronx International High School,0.8,0.8,0.83,0.41,0.84
+"Metropolitan High School, The",0.5,0.76,0.6,0.43,0.68
+Queens Gateway to Health Sciences Secondary School,0.96,0.95,0.26,0.92,0.82
+Veritas Academy,0.82,0.89,0.65,0.59,0.8
+High School of Sports Management,0.67,0.81,0.7,0.48,0.68
+Fort Hamilton High School,0.75,0.9,0.91,0.7,0.8
+Eagle Academy for Young Men of Harlem,0.79,0.89,0.75,0.59,0.78
+Baruch College Campus High School,1.0,0.97,0.75,0.94,0.95
+Bronx Leadership Academy II High School,0.73,0.84,0.85,0.64,0.83
+High School for Public Service: Heroes of Tomorrow,0.95,0.93,0.79,0.84,0.86
+The Academy of Urban Planning and Engineering,0.79,0.89,0.74,0.34,0.82
+The Eagle Academy for Young Men of Staten Island,0.79,0.87,0.75,0.59,0.77
+Claremont International High School,0.62,0.84,0.92,0.49,0.87
+City College Academy of the Arts,0.97,0.94,0.58,0.88,0.89
+Staten Island Technical High School,1.0,0.97,0.94,0.88,0.99
+Bronxdale High School,0.76,0.84,0.87,0.5,0.85
+Art and Design High School,0.85,0.9,0.84,0.66,0.92
+Millennium Art Academy,0.72,0.85,0.82,0.44,0.83
+Union Square Academy for Health Sciences,0.87,0.88,0.72,0.79,0.81
+Maspeth High School,0.98,0.92,0.92,0.84,0.94
+Central Park East High School,0.97,0.95,0.9,0.88,0.98
+The Urban Assembly School for Applied Math and Science,0.86,0.86,0.72,0.76,0.81
+New Dorp High School,0.8,0.87,0.87,0.56,0.81
+High School of World Cultures,0.39,0.8,0.77,0.21,0.83
+World Journalism Preparatory: A College Board School,0.97,0.93,0.39,0.85,0.77
+John Bowne High School,0.73,0.86,0.83,0.55,0.78
+Hillcrest High School,0.73,0.87,0.96,0.59,0.91
+The Michael J. Petrides School,0.93,0.92,0.82,0.59,0.82
+Fordham High School for the Arts,0.93,0.91,0.81,0.72,0.89
+High School for Civil Rights,0.64,0.74,0.81,0.34,0.88
+The Urban Assembly School for Global Commerce,0.75,0.85,0.65,0.59,0.86
+Bronx Early College Academy for Teaching & Learning,0.82,0.85,0.59,0.72,0.85
+Secondary School for Journalism,0.65,0.84,0.7,0.61,0.76
+"Queens High School of Teaching, Liberal Arts and the Sciences",0.91,0.91,0.65,0.79,0.8
+Harry S Truman High School,0.76,0.9,0.89,0.38,0.78
+Women's Academy of Excellence,0.7,0.75,0.49,0.42,0.74
+"Metropolitan Soundview High School, The",0.63,0.79,0.69,0.53,0.77
+Leon M. Goldstein High School for the Sciences,0.94,0.96,0.81,0.75,0.9
+Cambria Heights Academy,0.86,0.86,0.71,0.75,0.87
+Columbia Secondary School,1.0,0.94,0.81,0.88,0.91
+Brooklyn Collaborative Studies,0.9,0.84,0.73,0.74,0.86
+Rockaway Collegiate High School,0.66,0.82,0.56,0.39,0.76
+Discovery High School,0.8,0.88,0.74,0.46,0.84
+"Brooklyn School for Social Justice, The",0.69,0.78,0.64,0.48,0.74
+George Washington Carver High School for the Sciences,0.78,0.88,0.69,0.66,0.82
+Brooklyn Lab School,0.63,0.79,0.77,0.42,0.77
+"High School for Construction Trades, Engineering and Architecture",0.98,0.94,0.76,0.82,0.88
+"High School for Mathematics, Science and Engineering at City College (HSMSE)",0.99,0.96,0.83,0.99,0.97
